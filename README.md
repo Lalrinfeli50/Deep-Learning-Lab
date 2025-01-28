@@ -1,6 +1,6 @@
 # Deep Learning Lab
 
-Welcome to my repository for the experiments conducted as part of my Deep Learning Labs. This repository contains implementations, analyses, and experiments performed during the course of my learning journey in deep learning.
+This repository is for the experiments conducted as part of my Deep Learning Lab, containing implementations, analyses, and experiments performed during the course for my 6th Semester (2025).
 
 ## Student Details
 
