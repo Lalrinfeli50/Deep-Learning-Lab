@@ -12,7 +12,7 @@ Welcome to my repository for the experiments conducted as part of my Deep Learni
 
 ## List of Experiments
 
-1. **Experiment 1**: [Brief description of Experiment 1]
+1. **Experiment 1**: Create a Classification Model for MNIST Dataset using only Python and Numpy without the help of any pre-built Libraries.
 2. **Experiment 2**: [Brief description of Experiment 2]
 3. **Experiment 3**: [Brief description of Experiment 3]
 
